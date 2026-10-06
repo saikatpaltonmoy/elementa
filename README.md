@@ -5,7 +5,7 @@ Explore the periodic table with animated atoms, rotate molecules in 3D, calculat
 
 Built with **pure HTML, CSS and vanilla JavaScript**. No frameworks, no libraries, no build step. It is a single `index.html` file.
 
-**Live demo:** [(https://saikatpaltonmoy.github.io/elementa/)]
+**Live demo:** [https://saikatpaltonmoy.github.io/elementa/]
 <!-- Replace the link above after you deploy -->
 
 ![Elementa screenshot](screenshot.png)
